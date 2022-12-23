@@ -1,0 +1,19 @@
+.hero-list {
+  list-style: none;
+}
+
+.hero-btn {
+  margin: 10px;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.hero-btn:hover {
+  background-color: rgb(106, 218, 224);
+}
+
+.badge {
+  background-color: black;
+  margin: 0 5px;
+}
